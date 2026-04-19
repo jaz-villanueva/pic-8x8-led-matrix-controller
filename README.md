@@ -73,4 +73,9 @@ This project emphasizes the **physical construction of the system**, including:
 
 ---
 
-## Project Structure
+## Attribution
+This project is based on the following open-source implementation:
+https://github.com/icelal-kskn/PicPong
+
+The original work is licensed under the MIT License. This repository uses that work in accordance with its license.
+
